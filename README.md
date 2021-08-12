@@ -14,7 +14,9 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/RandawLucas/RandawLucas/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <!--
 **RandawLucas/RandawLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
