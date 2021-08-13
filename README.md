@@ -1,6 +1,8 @@
-### Hi 👋 my name is Randaw Lucas
+<h3 align="center"> Hi 👋 my name is Randaw Lucas </h3>
+<ul>
+  <p align="center"> 🌱 I’m currently learning Kotlin, Javascript, HTML5 and CSS3</p>
+</ul>
 
-- 🌱 I’m currently learning Kotlin, Javascript, HTML5 and CSS3
 <div style="displey: flex" align="Center">
   <a href="https://github.com/RandawLucas">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RandawLucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
