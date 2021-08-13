@@ -13,7 +13,13 @@
   <img align="center" alt="Randaw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+
 <div stile="dipley: Flex" align="Center">
+  <a href="https://www.facebook.com/RandawLucas" target="_Blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_Blank"></a>
+  <a href="https://www.instagram.com/randawlucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/randaw-lucas-rodrigues-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/RandawLucas/RandawLucas/blob/output/github-contribution-grid-snake.svg)
 
